@@ -10,8 +10,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Class1 a = new Class1();
-            a.Cht();
         }
     }
 }
